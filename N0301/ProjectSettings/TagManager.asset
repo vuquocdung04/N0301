@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Pipe
+    uniqueID: 2698139589
+    locked: 0
+  - name: Dir
+    uniqueID: 3679286585
+    locked: 0
+  - name: Score
+    uniqueID: 467384569
+    locked: 0
